@@ -10,7 +10,7 @@ gem 'geocoder'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.7'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'rails', '~> 5.2'
 gem "roo", "~> 2.8.0"
 gem 'sass-rails', '~> 5'
